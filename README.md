@@ -5,6 +5,8 @@ The constructor program bridge the gab between the owner of a project his contra
 
 In Nigeria there is a ranging distrust between appointed contractors and the owner of the project.
 
-In this short program we are verifying and making sure that the Owner is aware of the actual cost of the equipments coted by the contractor and all esuring the actual wages are paid.
+In this short program we are verifying and making sure that the Owner is aware of the actual cost of the equipments costed by the contractor, and ensuring the actual wages are paid to the supplier.
 
 
+
+.......This short program is open for contributions and critics............. Thanks 
