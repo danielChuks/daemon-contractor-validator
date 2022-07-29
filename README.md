@@ -9,4 +9,4 @@ In this short program we are verifying and making sure that the Owner is aware o
 
 
 
-.......This short program is open for contributions and critics............. Thanks 
+.......This short program is open to contributions and critics............. Thanks 
